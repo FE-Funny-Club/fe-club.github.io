@@ -1,2 +1,2 @@
-# ff-club.github.io
+# fe-funny-club.github.io
 website
